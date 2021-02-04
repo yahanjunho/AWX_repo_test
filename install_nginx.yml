@@ -1,6 +1,6 @@
 ---
 - name: playbook, install nginx
-  hosts: opc_test
+  hosts: all
   vars:
     nginx:
         worker_processes: 10
