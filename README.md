@@ -1,3 +1,2 @@
 # AWX_repo_test
 # test github ~ jenkins ~ AWX project sync
-# test github ~ jenkins ~ AWX project sync
